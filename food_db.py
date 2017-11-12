@@ -80,6 +80,7 @@ def build_database():
             "ham":9.31,
             "ice cream":1.82,
             "pasta":1.24,
+            "spagetti":1.24,
             "whisky":2.23,
             "margarine":1.77,
             "mashed potato":4.51,
