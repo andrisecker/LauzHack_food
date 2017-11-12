@@ -1,4 +1,4 @@
-## LauzHack 2017 : OpenFootprint
+## LauzHack 2017 : OpenFoodprint
 
 Working on the [Openfood](https://openfood.ch) database, we want to show people the impact their food choices have on the climate, and try to suggest a better alternative. Our app will scan the barcodes of food items available in the Swiss market and connect to the information stored in the Openfood dataset to find the ingredients contained in the food item. Then we scraped the [CleanMetrics](http://www.foodemissions.com/foodemissions/Calculator.aspx) webpage to find a dataset that maps the ingredients to a metric describing the climate impact (we took a simple idea of the total carbon content released during its production minus the transportation cost and the waste). This allows us to estimate a value of the climate footprint of the product by mapping the ingredients to the footprint.
 
